@@ -1,1 +1,4 @@
-In This Repositry We Upload Your Projects , And Also Projects ppt , and Project Report 
+In this repository, you will find:
+- Project On Olympics Analysis
+- Project presentation (PPT)
+- Project report
